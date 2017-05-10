@@ -1,14 +1,14 @@
 # Data Visualization project
 
 ## Team
-#### Alice Zhao :panda_face:,
-Valentin Vrzheshch :coffee:
+#### Alice Zhao :panda_face:, alicezyk@gmail.com
+#### Valentin Vrzheshch :coffee:, valentin.vrzheshch@gmail.com
 
 Run gently in R:
 
 _shiny::runGitHub('ABC-final', 'usfviz')_
 
-or you can find the deployed app hosted at https://alicezhao.shinyapps.io/abc-final/
+or you can find the deployed app hosted at https://alicezhao.shinyapps.io/world_trade_visualization/
 
 ## Dataset 
 The data is world trade data taken from WTO. The initial data is from 1946-2020.

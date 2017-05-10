@@ -1,8 +1,8 @@
 # Data Visualization project
 
 ## Team
-#### Alice Zhao :panda_face:, alicezyk@gmail.com
-#### Valentin Vrzheshch :coffee:, valentin.vrzheshch@gmail.com
+* Alice Zhao :panda_face:, alicezyk@gmail.com
+* Valentin Vrzheshch :coffee:, valentin.vrzheshch@gmail.com
 
 Run gently in R:
 
